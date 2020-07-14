@@ -14,4 +14,5 @@ public struct Video: Hashable, Codable, Identifiable {
     public var url: String
     public var tags: [String]
     public var author: String
+    public var description: String
 }
