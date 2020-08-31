@@ -7,7 +7,6 @@
 //
 
 import Foundation
-import SwiftUI
 
 
 public struct Topic: Hashable, Codable, Identifiable {
